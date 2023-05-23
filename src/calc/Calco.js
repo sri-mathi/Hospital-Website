@@ -31,7 +31,7 @@ const Calco = () => {
                         <h3 class = "lead">BOOK APPOINTMENT</h3>
                     </div>
           
-                    <form action="https://formspree.io/f/myyavvro" method="POST">
+                    <form action="https://formspree.io/f/" method="POST">
                         <div class = "form-element">
                             <input type ="text" class = "form-control" name="Name" placeholder="Your name"/>
                         </div>
