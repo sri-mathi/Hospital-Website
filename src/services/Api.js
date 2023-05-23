@@ -2,7 +2,7 @@ import axios from "axios"
 import { getUserData } from "./storage";
 
 axios.defaults.baseURL="https://identitytoolkit.googleapis.com/v1";
-const API_KEY="AIzaSyCXp4JbOx3_0o9t_JDRAemEDHb_UnPbvkI";
+const API_KEY="";
 const REGISTER_URL=`/accounts:signUp?key=${API_KEY}`;
 const LOGIN_URL=`/accounts:signInWithPassword?key=${API_KEY}`;
 const USER_DETAILS_URL=`/accounts:lookup?key=${API_KEY}`;
