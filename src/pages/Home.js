@@ -299,7 +299,7 @@ Our hospital is equipped to handle emergency cases with prompt and expert care. 
                         <h3 class = "lead">Contact Us</h3>
                     </div>
           
-                    <form action="https://formspree.io/f/myyavvro" method="POST">
+                    <form action="" method="POST">
                         <div class = "form-element">
                             <input type ="text" class = "form-control" name="Name" placeholder="Your name"/>
                         </div>
